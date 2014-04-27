@@ -20,6 +20,8 @@ More Information
 --
 
 Check the [forum post] [1]. 
+Check the [changelog] [2].
 
 
 [1]:http://botoflegends.com/forum/topic/12577-paid-bothappy-scripts-lee-sin-nidalee-leona-thresh/
+[2]:https://github.com/BotHappy/bh-scripts/blob/master/Changelog.txt
