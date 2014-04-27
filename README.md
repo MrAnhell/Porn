@@ -20,6 +20,7 @@ More Information
 --
 
 Check the [forum post] [1]. 
+
 Check the [changelog] [2].
 
 
