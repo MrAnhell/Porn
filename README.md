@@ -19,9 +19,8 @@ Once you pay, download the scripts and place them in the usual folder, and downl
 More Information
 --
 
-Check the [forum post] [1]. 
-
-Check the [changelog] [2].
+* Check the [forum post] [1]. 
+* Check the [changelog] [2].
 
 
 [1]:http://botoflegends.com/forum/topic/12577-paid-bothappy-scripts-lee-sin-nidalee-leona-thresh/
